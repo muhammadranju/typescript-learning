@@ -63,7 +63,15 @@
 //   password: "dhf",
 //   phone: 4041,
 // });
-let userNum = 41023;
-let userName = "Md Ranju";
-let userType = true;
-console.log(userNum);
+// let userId: number = 41023;
+// let userName: string = "Md Ranju";
+// let userIsActive: boolean = true;
+// console.log(userName.length);
+// console.log(
+//   `Your id: ${userId}, username: ${userName}, accout activated: ${userIsActive}`
+// );
+// function display(): void {
+//   console.log("Hello Bangladesh");
+//   return undefined;
+// }
+// display();
